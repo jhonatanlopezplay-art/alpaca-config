@@ -9,14 +9,12 @@
       "mcVersion": "1.21.1",
       "loader": "fabric",
       "whitelist": [
-        "TU_DISCORD_ID_AQUI",
-        "DISCORD_ID_JUGADOR_2",
-        "DISCORD_ID_JUGADOR_3"
+        "1405667941697065024"
       ],
       "mods": [
         {
           "filename": "fabric-api-0.116.9+1.21.1.jar",
-          "url": "https://github.com/TU_USUARIO/alpaca-mods/releases/download/squids-beta/fabric-api-0.116.9+1.21.1.jar"
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-mods/releases/download/squids-beta/fabric-api-0.116.9+1.21.1.jar"
         },
         {
           "filename": "geckolib-fabric-1.21.1-4.8.4.jar",
