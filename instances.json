@@ -9,8 +9,9 @@
       "mcVersion": "1.21.1",
       "loader": "fabric",
       "whitelist": [
-        "1405667941697065024"
-      ],
+  "1405667941697065024",
+  "987654321098765432"
+]
       "mods": [
         {
           "filename": "fabric-api-0.116.9+1.21.1.jar",
@@ -50,7 +51,7 @@
       "mods": [
         {
           "filename": "fabric-api-0.116.9+1.21.1.jar",
-          "url": "https://github.com/TU_USUARIO/alpaca-mods/releases/download/survival/fabric-api-0.116.9+1.21.1.jar"
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/fabric-api-0.116.9+1.21.1.jar"
         }
       ]
     }
