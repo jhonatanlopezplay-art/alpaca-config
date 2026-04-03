@@ -17,64 +17,6 @@
           "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/fabric-api-0.116.9+1.21.1.jar"
         },
         {
-  "launcherName": "Alpaca Client",
-  "instances": [
-    {
-      "id": "squids-beta",
-      "name": "Squids Beta",
-      "description": "Servidor beta con mods exclusivos. Solo jugadores autorizados.",
-      "icon": "🦑",
-      "mcVersion": "1.21.1",
-      "loader": "fabric",
-      "whitelist": [
-        "1405667941697065024"
-      ],
-      "mods": [
-        {
-          "filename": "fabric-api-0.116.9+1.21.1.jar",
-          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/fabric-api-0.116.9+1.21.1.jar"
-        },
-        {
-          "filename": "geckolib-fabric-1.21.1-4.8.4.jar",
-          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/geckolib-fabric-1.21.1-4.8.4.jar"
-        },
-        {
-          "filename": "Animorph-client-1.21.1-1.0.4-SNAPSHOT.jar",
-          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/Animorph-client-1.21.1-1.0.4-SNAPSHOT.jar"
-        },
-        {
-          "filename": "ReFramed-1.6.6.jar",
-          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/ReFramed-1.6.6.jar"
-        },
-        {
-          "filename": "panal-mod-1.5.0.jar",
-          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/panal-mod-1.5.0.jar"
-        },
-        {
-          "filename": "papa-bomba-1.3.0.jar",
-          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/papa-bomba-1.3.0.jar"
-        }
-      ]
-    },
-
-    {
-      "id": "survival-publico",
-      "name": "Survival Público",
-      "description": "Instancia de survival vanilla abierta para todos los jugadores.",
-      "icon": "🌿",
-      "mcVersion": "1.21.1",
-      "loader": "fabric",
-      "whitelist": [],
-      "mods": [
-        {
-          "filename": "fabric-api-0.116.9+1.21.1.jar",
-          "url": "https://github.com/TU_USUARIO/alpaca-mods/releases/download/survival/fabric-api-0.116.9+1.21.1.jar"
-        }
-      ]
-    }
-  ]
-}
-        {
           "filename": "Animorph-client-1.21.1-1.0.4-SNAPSHOT.jar",
           "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/Animorph-client-1.21.1-1.0.4-SNAPSHOT.jar"
         },
