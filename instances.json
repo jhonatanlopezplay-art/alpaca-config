@@ -8,11 +8,7 @@
       "icon": "🦑",
       "mcVersion": "1.21.1",
       "loader": "fabric",
-      "whitelist": [
-        "1405667941697065024",
-        "754443571695845376",
-        "714972780814139432"
-      ],
+      "whitelist": [],
       "mods": [
         {
           "filename": "fabric-api-0.116.9+1.21.1.jar",
