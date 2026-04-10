@@ -107,6 +107,10 @@
         {
           "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
           "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar"
+        },
+        {
+          "filename": "bbs-cml-edition-1.10.1-1.21.1.jar",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/bbs-cml-edition-1.10.1-1.21.1.jar"
         }
       ]
     }
