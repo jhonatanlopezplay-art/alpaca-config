@@ -134,6 +134,26 @@
           "filename": "bbs-cml-edition-1.10.1-1.21.1.jar.enc",
           "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/bbs-cml-edition-1.10.1-1.21.1.jar.enc",
           "encrypted": true
+        },
+        {
+          "filename": "melody_fabric_1.0.10_MC_1.21.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/melody_fabric_1.0.10_MC_1.21.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "konkrete_fabric_1.9.9_MC_1.21.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/konkrete_fabric_1.9.9_MC_1.21.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "fancymenu_fabric_3.8.1_MC_1.21.1.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/fancymenu_fabric_3.8.1_MC_1.21.1.jar.enc",
+          "encrypted": true
         }
       ]
     }
