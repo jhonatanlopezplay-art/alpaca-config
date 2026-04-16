@@ -51,8 +51,8 @@
           "encrypted": true
         },
         {
-          "filename": "periquito-mod-4.0.0.jar.enc",
-          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/periquito-mod-4.0.0.jar.enc",
+          "filename": "periquito-mod-4.5.0.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/periquito-mod-4.5.0.jar.enc",
           "encrypted": true
         },
         {
@@ -153,6 +153,21 @@
         {
           "filename": "fancymenu_fabric_3.8.1_MC_1.21.1.jar.enc",
           "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/fancymenu_fabric_3.8.1_MC_1.21.1.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "CreativeCore_FABRIC_v2.13.29_mc1.21.1.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/CreativeCore_FABRIC_v2.13.29_mc1.21.1.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "CMDCam-Fabric-new.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/CMDCam-Fabric-new.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "instrucciones_eufonia-1.0.0.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/instrucciones_eufonia-1.0.0.jar.enc",
           "encrypted": true
         }
       ]
