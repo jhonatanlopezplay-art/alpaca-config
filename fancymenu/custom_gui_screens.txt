@@ -1,0 +1,49 @@
+type = custom_gui_screens
+
+overridden_screens {
+}
+
+custom_gui {
+  identifier = 0
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+  popup_mode = true
+  popup_mode_background_overlay = true
+}
+
+custom_gui {
+  identifier = 1
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+  popup_mode = true
+  popup_mode_background_overlay = true
+}
+
+custom_gui {
+  identifier = 2
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+  popup_mode = true
+  popup_mode_background_overlay = true
+}
+
+custom_gui {
+  identifier = 3
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+  popup_mode = true
+  popup_mode_background_overlay = true
+}
+
