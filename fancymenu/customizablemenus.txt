@@ -1,9 +1,0 @@
-type = customizablemenus
-
-net.minecraft.class_442 {
-  customization = fancymenu/customization/beta.txt
-}
-
-net.minecraft.class_429 {
-  customization = fancymenu/customization/beta-config.txt
-}
