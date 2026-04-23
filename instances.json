@@ -7,7 +7,7 @@
       "description": "Servidor beta con mods exclusivos. Solo jugadores autorizados.",
       "icon": "🦑",
       "image": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/squids-beta/cover.png",
-      "background": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/squids-beta/bg2.jpg",
+      "background": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/squids-beta/bg5.gif",
       "mcVersion": "1.21.1",
       "loader": "fabric",
       "whitelist": {
