@@ -48,8 +48,8 @@
           "encrypted": true
         },
         {
-          "filename": "panal-mod-1.5.0.jar.enc",
-          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/panal-mod-1.5.0.jar.enc",
+          "filename": "panal-mod-1.6.0.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/panal-mod-1.6.0.jar.enc",
           "encrypted": true
         },
         {
@@ -181,6 +181,16 @@
           "filename": "Pehkui-3.8.3+1.14.4-1.21.jar.enc",
           "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/Pehkui-3.8.3+1.14.4-1.21.jar.enc",
           "encrypted": true
+        },
+        {
+          "filename": "lebiu-core-1.0.0.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/lebiu-core-1.0.0.jar.enc",
+          "encrypted": true
+        },
+        {
+          "filename": "mingle-mod-1.0.0.jar.enc",
+          "url": "https://github.com/jhonatanlopezplay-art/alpaca-config/releases/download/squids-beta/mingle-mod-1.0.0.jar.enc",
+          "encrypted": true
         }
       ],
       "configFiles": [
@@ -235,6 +245,10 @@
         {
           "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/ui-themes/dark.json",
           "dest": "config/fancymenu/squids-beta/ui-themes/dark.json"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/ui-themes/light.json",
+          "dest": "config/fancymenu/squids-beta/ui-themes/light.json"
         },
         {
           "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/ui-themes/light.json",
