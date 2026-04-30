@@ -208,7 +208,7 @@
           "dest": "config/fancymenu/legacy_checklist.txt"
         },
         {
-          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/main/fancymenu/squids-beta/options.txt",
+          "url": "https://raw.githubusercontent.com/jhonatanlopezplay-art/alpaca-config/refs/heads/main/fancymenu/squids-beta/options.txt",
           "dest": "config/fancymenu/options.txt"
         },
         {
